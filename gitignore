@@ -1,0 +1,16 @@
+# Compiled executables (named after each source file)
+kruskal
+prim
+dijkstra
+bellman-ford
+floyd-warshall
+
+# Object files and other build artifacts
+*.o
+*.out
+*.exe
+
+# Debug / analysis output
+*.dSYM/
+vgcore.*
+core
